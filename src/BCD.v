@@ -9,6 +9,8 @@
 // Coding practices based on guidelines available at:
 // https://github.com/shalan/verilog_coding_guidelines
 
+//BCD adapted from "https://github.com/AmeerAbdelhadi/Binary-to-BCD-Converter"
+
 `timescale 1ns / 1ps
 `default_nettype none
 
